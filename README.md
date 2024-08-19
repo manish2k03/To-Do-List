@@ -1,14 +1,18 @@
 # To-Do-List
 to-do-list/
-│
-├── public/
-│   ├── index.html
-│   ├── styles.css
-│   └── script.js
-│
-├── server.js
-├── package.json
-└── package-lock.json
+ /todo-app
+/public
+/css
+styles.css
+/js
+app.js
+/views
+index.html
+/routes
+tasks.js
+package.json
+server.js
+README.md
 # Node.js
 mkdir to-do-list
 cd to-do-list
